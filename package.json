@@ -1,0 +1,18 @@
+{
+  "name": "nexter-ecommerce",
+  "version": "1.0.0",
+  "description": "Nexter Ecommerce Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server",
+    "scss": "node-sass scss/main.scss css/style.css -w"
+  },
+  "author": "Kh Mustafijur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^6.0.1"
+  },
+  "devDependencies": {}
+}
